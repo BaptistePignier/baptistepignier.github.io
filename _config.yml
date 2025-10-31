@@ -7,8 +7,8 @@ job: "Étudiant ingénieur-manager"
 
 address: Grenoble, France
 email: pignier.baptiste@tutanota.com
-linkedin_username: https://www.linkedin.com/in/bpignier/
-github_username: https://github.com/BaptistePignier/
+linkedin_username: bpignier
+github_username: BaptistePignier
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
