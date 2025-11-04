@@ -2,9 +2,10 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
+
   - title: Grenoble INP - Ensimag
     description:
-      - Junior-Entreprise
+      - C, Java, Réseaux, Web, OS, SQL
     date: Sept. 2023 - Juin 2026
   - title: Grenoble Ecole de Management
     description:
@@ -12,9 +13,7 @@ contents:
     date: Sept. 2025 - Mars 2026
   - title: La prépa des INP
     description:
-      - Cycle préparatoire à l'Institut National Polytechnique (Prépa INP ) de Clermont-Ferrand
-    grade: ""
+      - Math sup / Math spé, Physique, ingénierie
     date: Sept. 2021 - Aout 2023
   - title: Lycée Louis Armand
-    grade: ""
     date: Sept. 2018 - Juin 2021

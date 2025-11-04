@@ -2,21 +2,30 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Nsigma, Responsable Qualité 
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      Responsable du respect de l'image de Nsigma, de sa Politique Qualité et de sa conformité avec la marque CNJE et son cadre légal.
+      Chargé du Système de Management de la Qualité et de son amélioration continue, conformément à la norme ISO 9001.
+      100k de CA
+    date: Dec. 2023 - Mars 2025
+    
+  - title: Nsigma, Directeur Comité d'Orientation Stratégique
+    description:
+      Conseil en stratégie et pilotage ;
+      Accompagnement et supervision de projet informatique ;
+      Représentant en Conseil d'Administration.
+    date: Mars 2025 - Mars 2026
+  
+  - title: Stagiaire en cyber-sécurité
+    description:
+      Au sein de l'équipe Sécurité de Geodis ISSC, j'ai contribué au code Python d'un outil interne d'automatisation de réponse sur incident de sécurité.
+    date: Mai 2023 - Juin 2023
+
+  - title: Stagiaire en recherche mathématiques
+    description:
+      Stage d'observation aux côtés d'un chercheur en géométrie au Laboratoire de Mathématiques Appliquées ( LAMA )
+    date: Juin 2019
+  - title: Multiples job d'été
+    description:
+      Serveur, Comis de cuisine, Boulanger industriel, Boulanger artisanal, Employé de grande surface
+    date: 2021, 2022, 2023, 2024, 2025
