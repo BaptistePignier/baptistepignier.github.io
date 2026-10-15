@@ -1,22 +1,33 @@
-subject: Skills
+subject: Compétences
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
+  - title: Ingénierie logicielle, données et IA
+    description:
+      - Python, C, Java, SQL (PostgreSQL), JavaScript / Google Apps Script, bash.
+      - Génie logiciel et tests, bases de données, réseaux, systèmes Linux, sécurité.
+      - Usage avancé des LLM et de l'IA générative appliquée au développement.
+
+  - title: Management et pilotage
+    description:
+      - Animation d'un comité stratégique, intervention en CA, démarche qualité ISO 9001 et préparation d'audit.
+      - "Méthodes : gestion de projet, ISO 9001, conduite du changement."
+
+  - title: Langages de programmation
     description: "
       [![devicon](/assets/svg/python-original.svg)](https://www.python.org)
-      [![devicon](/assets/svg/appsscript.svg)](https://developers.google.com/apps-script)
       [![devicon](/assets/svg/c.svg)](https://www.c-language.org/)
       [![devicon](/assets/svg/java.svg)](https://dev.java/)
-
+      [![devicon](/assets/svg/postgresql-original.svg)](https://www.postgresql.org/)
+      [![devicon](/assets/svg/javascript-original.svg)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+      [![devicon](/assets/svg/appsscript.svg)](https://developers.google.com/apps-script)
+      [![devicon](/assets/svg/bash-original.svg)](https://www.gnu.org/software/bash/)
     "
 
-  - title: Tools
+  - title: Outils
     description: "
       [![devicon](/assets/svg/git.svg)](https://git-scm.com/)
-      [![devicon](/assets/svg/mistral-color.svg)](https://chat.mistral.ai/)
-      [![devicon](/assets/svg/google.svg)](https://workspace.google.com/intl/fr/)
       [![devicon](/assets/svg/Ubuntu.svg)](https://ubuntu.com/)
-
-
+      [![devicon](/assets/svg/google.svg)](https://workspace.google.com/intl/fr/)
+      [![devicon](/assets/svg/mistral-color.svg)](https://chat.mistral.ai/)
     "

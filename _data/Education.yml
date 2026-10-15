@@ -1,19 +1,33 @@
-subject: Education
-listing-order: 1
+subject: Formations
+listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
+  - title: "[Grenoble INP - Ensimag, UGA](https://ensimag.grenoble-inp.fr), Ingénieur en informatique – filière ISI (Systèmes d'Information)"
+    description:
+      - Bases de données (SGBD), réseaux, architecture logicielle
+      - C, Java, Web, OS, SQL
+    date: Depuis Sept. 2023
 
-  - title: Grenoble INP - Ensimag
+  - title: "[Grenoble École de Management](https://www.grenoble-em.com), Diplôme d'Études Supérieures en Management (DESMA)"
     description:
-      - C, Java, Réseaux, Web, OS, SQL
-    date: Sept. 2023 - Juin 2026
-  - title: Grenoble Ecole de Management
+      - Stratégie de l'innovation, négociation ; mémoire de recherche
+      - Marketing, Stratégie et Technologie, Éco-conception, Leadership Responsable
+    date: Oct. 2025 - Avr. 2026
+
+  - title: "[IHEDN](https://ihedn.fr), Auditeur du 161e cycle IHEDN-Jeunes – défense nationale"
     description:
-      - Marketing, Stratégie et Technologie, Négociation d'Affaires, Éco-conception, Leadership Responsable
-    date: Sept. 2025 - Mars 2026
+      Semaine résidentielle défense et sécurité à Grenoble : conférences d'experts civils et militaires, visites de terrain, simulation de crise, travaux en comité.
+    date: Mars 2026
+
+  - title: "[McMaster University](https://www.mcmaster.ca), Computer Science Exchange Semester"
+    description:
+      Semestre d'échange à Hamilton (Ontario, Canada) : conception logicielle, calcul scientifique, systèmes critiques
+    date: Janv. 2025 - Avr. 2025
+
   - title: La prépa des INP
     description:
       - Math sup / Math spé, Physique, ingénierie
-    date: Sept. 2021 - Aout 2023
+    date: Sept. 2021 - Août 2023
+
   - title: Lycée Louis Armand
     date: Sept. 2018 - Juin 2021

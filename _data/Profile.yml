@@ -1,0 +1,11 @@
+subject: Profil
+listing-order: 0
+icon: "/assets/img/user.svg"
+contents:
+  - title: Stage de fin d'études – 6 mois, à partir de février 2027
+    description: Élève-ingénieur en dernière année à l'Ensimag (systèmes d'information) et diplômé du DESMA de GEM, je combine développement, data et pilotage d'organisation. Je recherche un stage de fin d'études de 6 mois à partir de février 2027, alliant responsabilités techniques, gestion de projet et relation client.
+  - title: Atouts
+    description:
+      - "**Rigoureux** – système qualité ISO 9001 et préparation d'audit"
+      - "**Engagé** – 3 ans en Junior-Entreprise, du local au national"
+      - "**Adaptable** – semestre au Canada, double cursus ingénieur-manager"

@@ -1,0 +1,8 @@
+subject: Projets personnels
+listing-order: 3
+icon: "/assets/img/lightbulb.svg"
+contents:
+  - title: Linux From Scratch
+    description: Sur Raspberry Pi 3, pour l'auto-hébergement de services web.
+  - title: Outil de devis (CPQ)
+    description: En Apps Script, pour une Junior-Entreprise.

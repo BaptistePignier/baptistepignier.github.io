@@ -1,31 +1,47 @@
-subject: Experiences
-listing-order: 2
+subject: Expériences
+listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nsigma, Responsable Qualité 
+  - title: "[CNJE](https://junior-entreprises.com), Chargé de mission Data et automatisations (pôle SI)"
     description:
-      Responsable du respect de l'image de Nsigma, de sa Politique Qualité et de sa conformité avec la marque CNJE et son cadre légal.
-      Chargé du Système de Management de la Qualité et de son amélioration continue, conformément à la norme ISO 9001.
-      100k de CA
-    date: Dec. 2023 - Mars 2025
-    
-  - title: Nsigma, Directeur Comité d'Orientation Stratégique
+      - Réduction de la dette technique de 9 outils internes grâce à l'IA ;
+      - "Aide à la décision par la donnée : traduction des données brutes du mouvement en analyses pour la présidence et le CA ;"
+      - Administration Google Workspace, automatisations Apps Script.
+    date: Depuis juin 2026
+
+  - title: "[Deepki](https://www.deepki.com), Stagiaire assistant ingénieur – Customer Solutions Engineer"
+    company: SaaS de données ESG pour l'immobilier · Paris
     description:
-      Conseil en stratégie et pilotage ;
-      Accompagnement et supervision de projet informatique ;
-      Représentant en Conseil d'Administration.
+      - "Standardisation des configurations clients pour le passage à l'échelle : migration assistée par IA de paramétrages spécifiques vers des applications standard (≈ 100 configurations) ;"
+      - "Fiabilisation des données clients intégrées à la plateforme : outil de tests unitaires automatisés pour les ETL de sources externes (S3) ;"
+      - Collaboration avec l'équipe produit sur l'évolution de la plateforme.
+    date: Mars 2026 - Juin 2026
+
+  - title: "[Nsigma](https://nsigma.fr), Directeur du Comité d'Orientation Stratégique"
+    description:
+      - Revue et suivi du plan d'action ; intervention en Conseil d'Administration ;
+      - Conseil au mandat entrant face au turnover et à la perte de savoir ;
+      - Accompagnement et supervision des projets informatiques.
     date: Mars 2025 - Mars 2026
-  
-  - title: Stagiaire en cyber-sécurité
+
+  - title: "[Nsigma](https://nsigma.fr), Responsable Qualité"
+    description:
+      - Pilotage du Système de Management de la Qualité ISO 9001, conformité CNJE et légale ; 100k de CA ;
+      - Relecture des documents d'étude ;
+      - Préparation de l'audit CNJE.
+    date: Déc. 2023 - Mars 2025
+
+  - title: "[Geodis](https://geodis.com), Stagiaire en cyber-sécurité"
     description:
       Au sein de l'équipe Sécurité de Geodis ISSC, j'ai contribué au code Python d'un outil interne d'automatisation de réponse sur incident de sécurité.
     date: Mai 2023 - Juin 2023
 
-  - title: Stagiaire en recherche mathématiques
+  - title: "[USMB](https://www.univ-smb.fr), Stagiaire en recherche mathématiques"
     description:
-      Stage d'observation aux côtés d'un chercheur en géométrie au Laboratoire de Mathématiques Appliquées ( LAMA )
+      Stage d'observation aux côtés d'un chercheur en géométrie au Laboratoire de Mathématiques Appliquées (LAMA).
     date: Juin 2019
+
   - title: Multiples emplois d'été
     description:
-      Serveur, Comis de cuisine, Boulanger industriel, Boulanger artisanal, Employé de grande surface
+      Serveur, Commis de cuisine, Boulanger industriel, Boulanger artisanal, Employé de grande surface
     date: 2021, 2022, 2023, 2024, 2025
